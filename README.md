@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praveenkumar0607
-- 👀 I’m interested in making gaming projects and learning wide field of analysis of languages
-- 🌱 I’m currently learning at college
+- 👀 I’m interested in making Data Science Web Project using ML and AI.
+- 🌱 Student of University of Delhi
 - 📫 How to reach me -> through my mail praveenkumar06072002@gmail.com
 
 <!---
